@@ -1,4 +1,4 @@
-# Azure Pipelines Agent
+# ESXP TimeTracker
 
 <!-- Use absolute path for images in README.md, so that they are displayed on ArtifactHub.io, Lens, OpenLens, etc. -->
 <img src="https://raw.githubusercontent.com/clemlesne/azure-pipelines-agent/main/docs/static/favicon.svg" width="100">

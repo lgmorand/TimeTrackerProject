@@ -1,5 +1,0 @@
-trustedRegistries:
-  - docker.io
-  - gcr.io
-  - mcr.microsoft.com
-  - quay.io
