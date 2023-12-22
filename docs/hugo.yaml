@@ -68,4 +68,4 @@ params:
   dateFormat: "January 2, 2006"
   editURL:
     enable: true
-    base: https://github.com/clemlesne/azure-pipelines-agent/edit/main/docs/content
+    base: https://github.com/lgmorand/TimeTrackerProject/edit/main/docs

@@ -3,7 +3,7 @@ linkTitle: Documentation
 title: Introduction
 ---
 
-Azure Pipelines Agent is self-hosted agent in Kubernetes, cheap to run, secure, auto-scaled and easy to deploy.
+TimeTracker is local WPF application capable of autotracking time for you, based on your Outlook calendar, your assigned VBD/EDE and using information from your MSX too.
 
 ## Features
 

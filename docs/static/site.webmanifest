@@ -1,6 +1,6 @@
 {
-  "name": "Azure Pipelines Agent",
-  "description": "Deploy Azure Pipelines agent on Kubernetes. Easy way. Cheap. Windows and Linux.",
+  "name": "TimeTracker",
+  "description": "TimeTracker. Be lazy, keep calm and track your time",
   "start_url": "index.html",
   "lang": "en-US",
   "theme_color": "#719be7",
