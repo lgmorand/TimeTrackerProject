@@ -1,0 +1,4 @@
+pipelines:
+  personalAccessToken: your-pat
+  poolName: your-pool
+  organizationURL: https://dev.azure.com/your-org

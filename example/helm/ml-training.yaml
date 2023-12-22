@@ -1,0 +1,19 @@
+pipelines:
+  personalAccessToken: your-pat
+  poolName: private_kube
+  organizationURL: https://dev.azure.com/shopping-cart-devops-demo
+  cache:
+    type: managed-csi-premium
+  capabilities:
+    - ml_training
+
+resources:
+  limits:
+    cpu: 8
+    memory: 32Gi
+  requests:
+    cpu: 4
+    memory: 16Gi
+
+extraNodeSelectors:
+  kubernetes.azure.com/agentpool: highperf
