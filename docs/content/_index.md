@@ -5,13 +5,13 @@ layout: hextra-home
 
 <div class="mt-6 mb-6">
 {{< hextra/hero-headline >}}
-  Manage Azure Pipelines Agent<br class="sm:block hidden" />in Kubernetes
+  Be lazy, keep calm and track your time
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="mb-12">
 {{< hextra/hero-subtitle >}}
-  Azure Pipelines Agent is self-hosted agent in Kubernetes, cheap to run, secure, auto-scaled and easy to deploy.
+  TimeTracker is the perfect application when you are lazy to track your time in ESXP.
 {{< /hextra/hero-subtitle >}}
 </div>
 

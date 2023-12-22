@@ -1,7 +1,7 @@
 # TimeTracker
 
 <!-- Use absolute path for images in README.md, so that they are displayed on ArtifactHub.io, Lens, OpenLens, etc. -->
-<img src="https://raw.githubusercontent.com/clemlesne/azure-pipelines-agent/main/docs/static/favicon.svg" width="100">
+<img src="https://raw.githubusercontent.com/lgmorand/TimeTrackerProject/main/docs/static/favicon.svg" width="100">
 
 [TimeTracker](https://lgmorand.github.io/TimeTrackerProject/) TimeTracker is local WPF application capable of autotracking time for you, based on your Outlook calendar, your assigned VBD/EDE and using information from your MSX too.
 
