@@ -18,3 +18,5 @@ layout: hextra-home
 <div class="mb-6">
 {{< hextra/hero-button text="Get started" link="docs" >}}
 </div>
+
+![main UI](media/main-ui.png)
