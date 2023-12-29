@@ -9,15 +9,15 @@ The application lets you customize some behavior
 
 ## General
 
-![General](../../media/options-general.png)
+![General](../../../media/options-general.png)
 
 ## Time Tracking
 
-![Time Tracking](../../media/options-timetracking.png)
+![Time Tracking](../../../media/options-timetracking.png)
 
 ## Categories
 
-![Outlook Categories](../../media/options-categories.png)
+![Outlook Categories](../../../media/options-categories.png)
 
 ## Colors
 
