@@ -15,7 +15,7 @@ weight: 1
 
 ### Download the last version
 
-Go on the releases page and select the last version.
+Go on the [releases](https://github.com/lgmorand/TimeTrackerProject/releases) page and select the last version.
 
 ### Configure it
 

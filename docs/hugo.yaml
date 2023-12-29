@@ -37,7 +37,7 @@ menu:
       pageRef: /about
       weight: 2
     - name: Releases ↗
-      url: "https://lgmorand.github.io/TimeTrackerProject/releases"
+      url: "https://github.com/lgmorand/TimeTrackerProject/releases"
       weight: 3
     - name: Search
       weight: 5
@@ -45,7 +45,7 @@ menu:
         type: search
     - name: GitHub ↗
       weight: 6
-      url: "https://lgmorand.github.io/TimeTrackerProject/"
+      url: "https://github.com/lgmorand/TimeTrackerProject/"
       params:
         icon: github
 params:
