@@ -1,5 +1,5 @@
 ---
-title: Proxy
+title: First Run
 ---
 
 If you need to use a proxy, you can set the following environment variables. See [this documentation](https://github.com/microsoft/azure-pipelines-agent/blob/master/docs/start/proxyconfig.md) for more details.
