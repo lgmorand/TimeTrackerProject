@@ -2,7 +2,7 @@
 next: /troubleshooting
 prev: /getting-started
 title: Configuration
-weight: 3
+weight: 20
 ---
 
 Explore the following sections to learn how to use Azure Pipelines Agent:

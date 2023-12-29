@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting
-weight: 5
+weight: 30
 ---
 
 The application is far from being perfect and some bugs may still be present. Don't hesitate to open an Issue with as much as details as possible
