@@ -37,6 +37,7 @@ menu:
       pageRef: /about
       weight: 2
     - name: Releases ↗
+      url: "https://lgmorand.github.io/TimeTrackerProject/releases"
       weight: 3
     - name: Search
       weight: 5
@@ -47,11 +48,6 @@ menu:
       url: "https://lgmorand.github.io/TimeTrackerProject/"
       params:
         icon: github
-  sidebar:
-    - name: More
-      params:
-        type: separator
-      weight: 1
 params:
   description: TimeTracker. Be lazy, keep calm and track your time.
   navbar:

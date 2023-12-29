@@ -1,7 +1,7 @@
 ---
 linkTitle: Documentation
 title: Introduction
-weight: 0
+weight: 1
 ---
 
 TimeTracker is local WPF application capable of autotracking time for you, based on your Outlook calendar, your assigned VBD/EDE and using information from your MSX too.

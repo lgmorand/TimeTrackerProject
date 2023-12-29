@@ -2,7 +2,7 @@
 next: /security
 prev: /getting-started
 title: Advanced topics
-weight: 2
+weight: 3
 ---
 
 Explore the following sections to learn how to use Azure Pipelines Agent:

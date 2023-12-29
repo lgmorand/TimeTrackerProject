@@ -19,5 +19,4 @@ TimeTracker is local WPF application capable of autotracking time for you, based
 
 {{< cards >}}
 {{< card link="getting-started" title="Getting started" icon="check" subtitle="Quick steps to deploy" >}}
-{{< card link="security" title="Security" icon="shield-check" subtitle="Chain of trust & reporting a vulnerability" >}}
 {{< /cards >}}

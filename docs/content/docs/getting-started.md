@@ -11,7 +11,7 @@ weight: 1
 
 ### Watch the quick explanatory video
 
-![Watch the video](../media/main-ui.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](../media/main-ui.png)](https://youtu.be/vt5fpE0bzSY)
 
 ### Download the last version
 
