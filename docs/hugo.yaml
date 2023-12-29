@@ -2,7 +2,7 @@ languageCode: en-us
 theme: hextra
 title: TimeTracker
 
-enableGitInfo: true
+enableGitInfo: false
 enableRobotsTXT: true
 enableEmoji: true
 
