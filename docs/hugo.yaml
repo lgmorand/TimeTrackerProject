@@ -10,8 +10,6 @@ imaging:
   quality: 75
   resampleFilter: MitchellNetravali
 
-services:
-
 defaultContentLanguage: en
 languages:
   en:
@@ -58,9 +56,9 @@ params:
       path: favicon.svg
     width: wide
   footer:
-    displayCopyright: true
+    displayCopyright: false
     enable: true
-  displayUpdatedDate: true
+  displayUpdatedDate: false
   dateFormat: "January 2, 2006"
   editURL:
     enable: true
