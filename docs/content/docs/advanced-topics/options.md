@@ -21,4 +21,4 @@ The application lets you customize some behavior
 
 ## Colors
 
-The colors are not customizable but they are the same that the ones you put in your Outlook. Thus every time you start the application, it get the colors from your Outlook and define them as the "theme" for the TimeTracker application.
+The colors are **not** customizable but they are the same that the ones you put in your Outlook. Every time you start the application, it get the colors from your Outlook and define them as a "theme" for the TimeTracker application in order to help you to compare both apps.
