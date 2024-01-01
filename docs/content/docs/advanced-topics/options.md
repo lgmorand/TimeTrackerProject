@@ -7,17 +7,27 @@ weight: 23
 
 The application lets you customize some behavior
 
-## General
+{{< tabs items="General,TimeTracking,Categories" >}}
+
+{{< tab >}}
 
 ![General](../../../media/options-general.png)
 
-## Time Tracking
+{{< /tab >}}
+
+{{< tab >}}
 
 ![Time Tracking](../../../media/options-timetracking.png)
 
-## Categories
+{{< /tab >}}
+
+{{< tab >}}
 
 ![Outlook Categories](../../../media/options-categories.png)
+
+{{< /tab >}}
+
+{{< /tabs >}}
 
 ## Colors
 

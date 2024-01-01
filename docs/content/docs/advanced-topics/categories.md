@@ -16,7 +16,9 @@ When tracking your time in EXSP, each labor entry must fit into one of these cat
 - Mentor / Community / Non-Sanctioned IP Dev: any IP reuse/meetup/RTFM
 - Any other category is irrelevant for a CSA/CSAM
 
-> **Warning**: Every categorie except dispatch/opportunity is considered as NOT customer-focused and you may appear as not spending enough time with customer. "Overhead" categories should not represent more than 30% of your time.
+{{< callout type="warning" >}}
+ Every categorie except dispatch/opportunity is considered as NOT customer-focused and you may appear as not spending enough time with customer. "Overhead" categories should not represent more than 30% of your time.
+{{< /callout >}}
 
 ## Tagging events
 
