@@ -15,7 +15,11 @@ weight: 1
 
 ### Download the last version
 
-Go on the [releases](https://github.com/lgmorand/TimeTrackerProject/releases) page and select the last version. Ensure to have the [.Net Framework (runtime)](https://dotnet.microsoft.com/en-us/download/visual-studio-sdks?cid=getdotnetsdk) installed. The application use the version 7.0.
+Go on the [releases](https://github.com/lgmorand/TimeTrackerProject/releases) page and select the last version. Ensure to have the [.Net Framework (runtime)](https://dotnet.microsoft.com/en-us/download/visual-studio-sdks?cid=getdotnetsdk) installed.
+
+{{< callout type="warning" >}}
+ The application use the version .Net 7.0 but we may soon switch to .Net 8.0.
+{{< /callout >}}
 
 ### Configure it
 

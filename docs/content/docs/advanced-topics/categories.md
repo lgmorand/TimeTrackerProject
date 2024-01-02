@@ -16,11 +16,15 @@ When tracking your time in EXSP, each labor entry must fit into one of these cat
 - Mentor / Community / Non-Sanctioned IP Dev: any IP reuse/meetup/RTFM
 - Any other category is irrelevant for a CSA/CSAM
 
-> **Warning**: Every categorie except dispatch/opportunity is considered as NOT customer-focused and you may appear as not spending enough time with customer. "Overhead" categories should not represent more than 30% of your time.
+{{< callout type="warning" >}}
+ Every categorie except dispatch/opportunity is considered as NOT customer-focused and you may appear as not spending enough time with customer. "Overhead" categories should not represent more than 30% of your time.
+{{< /callout >}}
 
 ## Tagging events
 
 
 ## Custom categories
 
-When you tag an event with the "opportunity" 
+When you tag an event with the "opportunity" category, it will take a "random" opportunity from MSX (but one of yours!). It is OK for the management to track time on any opportunity but if you want to be more precise because you know that in the future, they may ask for more, you can tag a meeting with a specific opportunity. For that, the name of the category must have a specific format including the oppty ID.
+
+Because it's boring to have to create it manually, the application helps you to create them through [the Settings of the application](./options/).
