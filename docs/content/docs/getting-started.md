@@ -23,8 +23,6 @@ Go on the [releases](https://github.com/lgmorand/TimeTrackerProject/releases) pa
 
 ### Configure it
 
-Just run the application by clicking the TimeTracker.exe icon. On first startup, you should have the configuration wizard which asks for you Microsoft alias (i.e.: "lomorand").
-
-> If you give the wrong alias, the application won't work, so don't be clumsy ;-)
+Just run the application by clicking the TimeTracker.exe icon. On first startup, you should have [first-run experience](./advanced-topics/first-run/).
 
 {{% /steps %}}
