@@ -23,6 +23,6 @@ Go on the [releases](https://github.com/lgmorand/TimeTrackerProject/releases) pa
 
 ### Configure it
 
-Just run the application by clicking the TimeTracker.exe icon. On first startup, you should have [first-run experience](./advanced-topics/first-run/).
+Just run the application by clicking the TimeTracker.exe icon. On first startup, you should have [first-run experience](../advanced-topics/first-run/).
 
 {{% /steps %}}
