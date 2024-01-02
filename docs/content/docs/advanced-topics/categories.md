@@ -22,6 +22,13 @@ When tracking your time in EXSP, each labor entry must fit into one of these cat
 
 ## Tagging events
 
+You shoul then tag as much events as possible with relevant categories
+
+![Tag events](../../../media/tag-event.png)
+
+{{< callout type="info" >}}
+ Don't hesitate to change the colors of the categories if you have some habits but please only used categories created by the app (or at least having the same exact name). Other categories are simply ignored.
+{{< /callout >}}
 
 ## Custom categories
 
