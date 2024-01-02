@@ -27,4 +27,16 @@ The application should never ask you alias again and should properly load all da
 
 ![Tracking](../../../media/main-ui.png)
 
+### Tagging meetings
+
+In Outlook tag your meetings:
+
+![Tag meetings](../../../media/tag-meeting.png)
+
+### Restart the application
+
+The application should never ask you alias again and should properly load all data and offer to track elements.
+
+![Tracking](../../../media/main-ui.png)
+
 {{% /steps %}}
